@@ -2,4 +2,4 @@
 
 Aplicativo para fazer conversão de dólar para real usando storyboard e swift.   
 
-![alt text](https://imgur.com/gallery/JwhEUcw)
+![app](https://i.imgur.com/NMovba5.png)
